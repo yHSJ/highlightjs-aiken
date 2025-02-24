@@ -1,0 +1,8 @@
+{
+  "name": "highlightjs-aiken",
+  "version": "0.0.1",
+  "description": "highlight.js syntax definition for Aiken",
+  "main": "src/aiken.js",
+  "author": "Josh Marchand <josh@securitybot.info>",
+  "license": "MIT"
+}
